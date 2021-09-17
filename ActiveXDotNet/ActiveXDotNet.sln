@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveXDotNet", "ActiveXDotNet.csproj", "{EFC00D7E-50CB-4812-BD8A-166AE52A679B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EFC00D7E-50CB-4812-BD8A-166AE52A679B}.Debug.ActiveCfg = Debug|.NET
+		{EFC00D7E-50CB-4812-BD8A-166AE52A679B}.Debug.Build.0 = Debug|.NET
+		{EFC00D7E-50CB-4812-BD8A-166AE52A679B}.Release.ActiveCfg = Release|.NET
+		{EFC00D7E-50CB-4812-BD8A-166AE52A679B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

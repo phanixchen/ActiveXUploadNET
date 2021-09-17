@@ -1,0 +1,12 @@
+[version]
+signature="$CHICAGO$"
+AdvancedINF=2.0
+ 
+[Setup Hooks]
+hook1=hook1
+ 
+[hook1]
+run=msiexec.exe /i "%EXTRACT_DIR%\ActiveXUploadSetup.msi" /qb
+
+
+ 

@@ -1,0 +1,20 @@
+[version]
+signature="$CHICAGO$"
+AdvancedINF=2.0
+ 
+[Add.Code]
+ActiveXUpload.dll=ActiveXUpload.dll
+CS Class.dll=CS Class.dll
+ActiveXUpload.tlb=ActiveXUpload.tlb
+
+
+[ActiveXUpload.dll]
+CLSID={9551B223-6188-4387-B293-C7D9D8173E3B}
+CLSID={9551B223-6188-4387-B293-C7D9D8173E3A}
+FileVersion=1,0,0,0
+
+[CS Class.dll]
+FileVersion=1,0,0,0
+
+[ActiveXUpload.tlb]
+FileVersion=1,0,0,0

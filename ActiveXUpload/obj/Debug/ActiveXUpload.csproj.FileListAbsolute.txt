@@ -1,0 +1,10 @@
+C:\_eapple\ActiveXUpload\bin\Debug\ActiveXUpload.dll
+C:\_eapple\ActiveXUpload\bin\Debug\ActiveXUpload.pdb
+C:\_eapple\ActiveXUpload\bin\Debug\ActiveXUpload.tlb
+C:\_eapple\ActiveXUpload\obj\Debug\ResolveAssemblyReference.cache
+C:\_eapple\ActiveXUpload\obj\Debug\ActiveXUpload.FullControl.resources
+C:\_eapple\ActiveXUpload\obj\Debug\ActiveXUpload.TestControl.resources
+C:\_eapple\ActiveXUpload\obj\Debug\ActiveXUpload.DownloadControl.resources
+C:\_eapple\ActiveXUpload\obj\Debug\ActiveXUpload.csproj.GenerateResource.Cache
+C:\_eapple\ActiveXUpload\obj\Debug\ActiveXUpload.dll
+C:\_eapple\ActiveXUpload\obj\Debug\ActiveXUpload.pdb

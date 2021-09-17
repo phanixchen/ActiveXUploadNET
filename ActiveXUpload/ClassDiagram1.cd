@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="新細明體" Size="9" />
+  <Class Name="ActiveXUpload.TestControl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TestControl.cs</FileName>
+      <HashCode>AAABAIgAASAQARAAAxCABEQKAAAYAAAAAOQAAABEQEo=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ActiveXUpload.IObjectSafety" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TestControl.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>
